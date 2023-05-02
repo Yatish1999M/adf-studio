@@ -1,9 +1,0 @@
-{
-	"name": "adf-studo67",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "b74a7edb-c286-4f0d-adf3-98f8115fd5f3",
-		"tenantId": "a023013a-b824-434e-9e26-19ef84d33912"
-	}
-}
