@@ -2,7 +2,7 @@
 	"name": "Binary2",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "2",
+			"referenceName": "AzureBlobStorage21",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
